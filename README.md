@@ -1,5 +1,7 @@
 # 国内用户 HuggingFace 高速下载
 
+> forked from https://github.com/LetheSec/HuggingFace-Download-Accelerator
+
 利用 HuggingFace 官方的下载工具 [huggingface-cli](https://huggingface.co/docs/huggingface_hub/guides/download#download-from-the-cli) 和 [hf_transfer](https://github.com/huggingface/hf_transfer) 从 [HuggingFace 镜像站](https://hf-mirror.com/)上对模型和数据集进行高速下载。
 
 ---
