@@ -1,0 +1,18 @@
+[project]
+name = "HuggingFace-Download-Accelerator"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "svtter", email = "svtter@qq.com"},
+]
+dependencies = [
+    "hf-transfer>=0.1.6",
+    "huggingface-hub>=0.23.4",
+]
+requires-python = "==3.9.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
